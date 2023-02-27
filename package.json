@@ -1,0 +1,15 @@
+{
+  "name": "clase-23-02-2023",
+  "version": "1.0.0",
+  "description": "Class 23-02-2023",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "Juan Niño",
+  "license": "MIT"
+}
